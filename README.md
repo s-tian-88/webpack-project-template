@@ -1,1 +1,1 @@
-# task-manager
+# webpack project template
